@@ -1,1 +1,1 @@
-Small Tip Distributor I made
+Tailored to be used for a specific tip management environment
