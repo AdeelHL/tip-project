@@ -39,6 +39,9 @@
       "dist/**/*",
       "electron/main.cjs"
     ],
+    "extraMetadata": {
+      "type": "commonjs"
+    },
     "win": {
       "target": "portable"
     }
