@@ -4,7 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: './',
   server: {
-    open: true, // Automatically open the browser when the app starts
+    open: true,
   },
 })
